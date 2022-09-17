@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(25, 194, 200, 0.584);
+    color: cadetblue;
+    font-weight: bolder;
+}
+
+.train{
+    color: rgba(0, 111, 139, 0.542);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.name{
+    color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.webcam{
+    color: black;
+    font-weight: bolder;
+    font-family: monospace;
+    font-size:x-large;
+}
+.accuracy{
+    color: black;
+    font-weight: bold;
+}
+.obj{
+    color: black;
+    font-weight: bold;
+}
